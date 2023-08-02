@@ -1,0 +1,29 @@
+Epicos e temas - aula 8
+
+um epico tem varios temas e cada tema tem varios product backlog item (historia do usuario)
+
+togaf --> epico = objetivo, tema = requirement, historia de usuario = componentes(sistema, tecnologia)
+
+
+Exemplo - Sistema ERP
+epic = Modulo RH
+
+feature = contratacao, demissao, pagamento, gestao beneficio
+
+component - contratacao = frontend cad, backend cad
+
+
+
+
+epico/feature/backlog item
+- descricao "historia do usuario"
+	-quem quer?
+	-o que quer?
+	-porque quer?
+	representa requisitos funcionais de interesse do usuario
+
+- criterio de aceite
+	-formato de entrega
+	-regras de doc. do trabalho
+	-regras de programacao
+	representa requisitos funcionais e nao funcionais que interessam ti
